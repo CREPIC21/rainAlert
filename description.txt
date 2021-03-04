@@ -1,0 +1,4 @@
+- requests module (get(), raise_for_status(), json())
+- twilio module
+    - creating twilio profile, getting a phone number
+    - sending text message via python
