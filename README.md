@@ -5,5 +5,6 @@ The goal of this project is when the code is run you should recieve an SMS on yo
 When the code is run, API request is send to weather site and depending on the recieved data (weather codes) SMS will be sent.
 
 Library used: requests
+
 Module used: os
   
